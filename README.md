@@ -14,3 +14,9 @@ This is a Laravel Based Software
 1. Apache or NGINX Web Server
 2. PHP (Version 7.3+)
 3. MySQL Version 5+
+
+#Getting Started
+
+1. Simply Go To the Project URL as per the name of project folder. For example, http://localhost/dms, if the project folder is dms in the root of your web server.
+2. Click on Signup to register a new user and login with the same details.
+3. Everything will be in front of you, do whatever you want!

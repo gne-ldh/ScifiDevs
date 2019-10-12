@@ -1,6 +1,8 @@
 # ScifiDevs - Document Management Software
 This is a Laravel Based Software.
 
+Test Link: http://dms.wtmatter.com
+
 ## Installation Steps:
 
 1. Simply Copy All The Files into a folder on your Server Root.
@@ -8,6 +10,7 @@ This is a Laravel Based Software.
 2. Find the SQL File and import into a new database created in MySQL.
 3. By Default, the DB name is dms and root is the user with no password.
 4. You can change the DB details in the .env file.
+5. You also need to modify the the helpers.php file. Here find the getHomeURL() and replace the URL in it with the base URL of your server and this software files folder.
 
 ## Minimum Software Requirements
 

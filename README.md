@@ -9,8 +9,9 @@ Test Link: http://dms.wtmatter.com
 (For Example, in localhost, you need to create a folder with any name and then have to copy all files into it.)
 2. Find the SQL File and import into a new database created in MySQL.
 3. By Default, the DB name is dms and root is the user with no password.
-4. You can change the DB details in the .env file.
+4. You can change the DB details in the .env file. Because, github was not allowing to upload the .env file as it it, we've uploaded it with the name hello.env, rename it simply to .env
 5. You also need to modify the the helpers.php file. Here find the getHomeURL() and replace the URL in it with the base URL of your server and this software files folder.
+6. Also, there's a zip file, vendor.zip, unzip it as well.
 
 ## Minimum Software Requirements
 
